@@ -11,6 +11,9 @@
   "bugs": {
     "url": "https://github.com/ianstormtaylor/metascraper/issues"
   },
+  "files": [
+    "dist"
+  ],
   "keywords": [
     "article",
     "browser",
